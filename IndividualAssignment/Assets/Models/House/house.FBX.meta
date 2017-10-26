@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: f0b70138c15d6db44928ca29123ed7fa
+timeCreated: 1509005299
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Beam Front001
+    100002: Beam Front002
+    100004: Beam Side001
+    100006: Beam Side002
+    100008: House
+    100010: //RootNode
+    100012: House001
+    100014: Plank001
+    100016: Plank002
+    100018: Plank003
+    100020: Plank004
+    100022: Plank005
+    100024: Plank006
+    100026: Plank007
+    100028: Plank008
+    100030: Plank009
+    100032: Plank010
+    100034: Plank011
+    100036: Plank012
+    100038: Plank013
+    100040: Plank014
+    100042: Plank015
+    100044: Plank016
+    100046: Plank017
+    100048: Plank018
+    100050: Plank019
+    100052: Plank020
+    100054: Plank021
+    100056: Plank022
+    100058: Plank023
+    100060: Plank024
+    100062: Plank025
+    100064: Plank026
+    100066: Plank027
+    100068: Plank028
+    400000: Beam Front001
+    400002: Beam Front002
+    400004: Beam Side001
+    400006: Beam Side002
+    400008: House
+    400010: //RootNode
+    400012: House001
+    400014: Plank001
+    400016: Plank002
+    400018: Plank003
+    400020: Plank004
+    400022: Plank005
+    400024: Plank006
+    400026: Plank007
+    400028: Plank008
+    400030: Plank009
+    400032: Plank010
+    400034: Plank011
+    400036: Plank012
+    400038: Plank013
+    400040: Plank014
+    400042: Plank015
+    400044: Plank016
+    400046: Plank017
+    400048: Plank018
+    400050: Plank019
+    400052: Plank020
+    400054: Plank021
+    400056: Plank022
+    400058: Plank023
+    400060: Plank024
+    400062: Plank025
+    400064: Plank026
+    400066: Plank027
+    400068: Plank028
+    2300000: Beam Front001
+    2300002: Beam Front002
+    2300004: Beam Side001
+    2300006: Beam Side002
+    2300008: House
+    2300010: House001
+    2300012: Plank001
+    2300014: Plank002
+    2300016: Plank003
+    2300018: Plank004
+    2300020: Plank005
+    2300022: Plank006
+    2300024: Plank007
+    2300026: Plank008
+    2300028: Plank009
+    2300030: Plank010
+    2300032: Plank011
+    2300034: Plank012
+    2300036: Plank013
+    2300038: Plank014
+    2300040: Plank015
+    2300042: Plank016
+    2300044: Plank017
+    2300046: Plank018
+    2300048: Plank019
+    2300050: Plank020
+    2300052: Plank021
+    2300054: Plank022
+    2300056: Plank023
+    2300058: Plank024
+    2300060: Plank025
+    2300062: Plank026
+    2300064: Plank027
+    2300066: Plank028
+    3300000: Beam Front001
+    3300002: Beam Front002
+    3300004: Beam Side001
+    3300006: Beam Side002
+    3300008: House
+    3300010: House001
+    3300012: Plank001
+    3300014: Plank002
+    3300016: Plank003
+    3300018: Plank004
+    3300020: Plank005
+    3300022: Plank006
+    3300024: Plank007
+    3300026: Plank008
+    3300028: Plank009
+    3300030: Plank010
+    3300032: Plank011
+    3300034: Plank012
+    3300036: Plank013
+    3300038: Plank014
+    3300040: Plank015
+    3300042: Plank016
+    3300044: Plank017
+    3300046: Plank018
+    3300048: Plank019
+    3300050: Plank020
+    3300052: Plank021
+    3300054: Plank022
+    3300056: Plank023
+    3300058: Plank024
+    3300060: Plank025
+    3300062: Plank026
+    3300064: Plank027
+    3300066: Plank028
+    4300000: House
+    4300002: Beam Front001
+    4300004: Beam Front002
+    4300006: Beam Side001
+    4300008: Beam Side002
+    4300010: House001
+    4300012: Plank001
+    4300014: Plank002
+    4300016: Plank003
+    4300018: Plank004
+    4300020: Plank005
+    4300022: Plank006
+    4300024: Plank007
+    4300026: Plank008
+    4300028: Plank009
+    4300030: Plank010
+    4300032: Plank011
+    4300034: Plank012
+    4300036: Plank013
+    4300038: Plank014
+    4300040: Plank015
+    4300042: Plank016
+    4300044: Plank017
+    4300046: Plank018
+    4300048: Plank019
+    4300050: Plank020
+    4300052: Plank021
+    4300054: Plank022
+    4300056: Plank023
+    4300058: Plank024
+    4300060: Plank025
+    4300062: Plank026
+    4300064: Plank027
+    4300066: Plank028
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
